@@ -15,9 +15,6 @@ document.getElementById('minus').addEventListener('click', function(){
 function init() {
     sum;
     render();
-    if(sum < 0, function(){
-        document.querySelector('.sumDifference').innerHTML.style.color = 'red';
-    })
 }
 
 function render() {
